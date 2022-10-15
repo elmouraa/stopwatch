@@ -32,4 +32,4 @@ Run the website locally:
 pnpm dev
 ```
 
-You can access the website locally at [localhost:5173](localhost:5173)
+You can access the website locally at [localhost:5173](https://localhost:5173)
